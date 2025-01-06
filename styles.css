@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    align-items:center ;
+    padding: 10px;
+    background-color: black;
+    color:white;
+}
+.logo{
+margin-right: 200px;
+}
+.menu {
+    list-style-type: none;
+    display: flex;
+
+  }
+  .menu li {
+    margin-right: 30px;
+    margin-top:40px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
